@@ -2,7 +2,7 @@ package com.example.tests;
 
 import java.util.Scanner;
 
-//komentarz do repozytorium
+//komentarz do repozytorium  ciagle zmiany i zmiany i zmiany
 public class Main {
 
 	public static void main(String[] args) {
