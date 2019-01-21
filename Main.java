@@ -2,6 +2,7 @@ package com.example.tests;
 
 import java.util.Scanner;
 
+//komentarz do repozytorium
 public class Main {
 
 	public static void main(String[] args) {
